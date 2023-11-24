@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Hawkins",
+  "age": 64,
+  "address": {
+    "street": "Opuoh View",
+    "city": "Lomuvdun",
+    "state": "MN",
+    "zip": "03003"
+  },
+  "contact": {
+    "phone": "(506) 295-2081",
+    "servicePhone": "800722884"
+  },
+  "birthday": "1982-04-27T01:45:43.331Z",
+  "ip": "90.166.212.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Ihoni zijdanul zo paupa esarawbu zibjaw papav voc cehim cigihheb zaujde gefaewi mikoc ega. Kiep zijbuktah pobatak zudavis biisu futhuh hohda to af kaedi afobojso kucsi lofzudac suhifoc ophuju decvorko merpaz tema. Ranteki ka in na gutaw eli jazzikfe citjowoho fukobi dagobif jo mi vulupsab mordi jih hi tapabdu vijij.",
+    "bio": "Caus fozto kunol numunive lih donnot nu docva is vudac ejifolzuc facpo cit iz huv. Vinaha gorzofbas nuzej ezliw sicdid temuvedi mi bacizukid vod gifok cifedhiw da wijcow cic nibitemi. Gej mo kuv aribeflaj muhtonep vo zewjir lep une bamdito heogube ojmuad jecvuko."
+  },
+  "apiKey": "bd5122c0890f0dfc5917b9d9398576f97b8e18e742e099616f58f8cefdf0a488",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
