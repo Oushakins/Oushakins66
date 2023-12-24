@@ -1,0 +1,26 @@
+{
+  "name": "Julian Abbott",
+  "age": 62,
+  "address": {
+    "street": "Kirire Center",
+    "city": "Sicejan",
+    "state": "MD",
+    "zip": "92241"
+  },
+  "contact": {
+    "phone": "(819) 837-2425",
+    "servicePhone": "800712492"
+  },
+  "birthday": "1992-11-04T08:47:04.604Z",
+  "ip": "10.43.244.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Jevev kot ged he moz adu mal mehge og tesabpi casic otguwuj. Fi lun kitiswez ibpu jekaciza wofucij zaasop desaato eh hubfewos vidje zonbifula iccafe ro adagemac. Ba mab poon mesusa wupoc faijve iz wifej nucjakot ijhugi rul kuci jul jicu jicjudef kiteomi. Wakosha ci noksolcuh wigwumnam fulcuh fibzicut ma lihgocir mizunwa ivo dowvopul mizu. Jitpe ugatapsi recbewfe gi latjuv nejin repekpur logec kit rosu somukma tizasuav vokiveno casluw. Camu fiuc duj fajacic jed wi uh pezu volino ne vo gawgij ab uzesewa. Pemawuc zu tuzeprug ez zij fif cuj gokuru ra vo vukso poalilu.",
+    "bio": "Apbohdur agewagaj mifdel ilfek ku avogigew keige mohivam is hos beog vukufose pi oru. Huzifpa dawec cabceuto civ ivawos da bedzakim moh gijna caup wudmi we mujfapu kuke nenawaz zahalnup. Garneh ik wedes dusi uti daded zotaed ohgulne jedu lawazu ecih pa."
+  },
+  "apiKey": "19f70fb6ce296d32d8cd055d6818cb6e04bf8a8a53cc02275e8c757c8b93a6e6",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
