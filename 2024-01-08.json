@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Powers",
+  "age": 37,
+  "address": {
+    "street": "Luni Point",
+    "city": "Vuruke",
+    "state": "ID",
+    "zip": "87966"
+  },
+  "contact": {
+    "phone": "(386) 753-9302",
+    "servicePhone": "800168699"
+  },
+  "birthday": "1964-06-08T14:03:46.055Z",
+  "ip": "222.46.29.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Gak bi hutaj me geamice gevuluv pefhu koc afasorta jiuviuka ori vi osoaw ujpo la oso. Lijiwi atpodum wij kehazfu numahuriv obogoefi ta gim gozofeci bu irehe av kig. Ajokubdo na ak zorugik biker egaoru sircipo uzluzhek geha dacwoh weazvos do ema ruccout tauruge ecamazaro re.",
+    "bio": "Dagtim wu majitgi tonmisbe foisiun vi koc socinsu algud ujosazed ka iva ikuzi. Ifzakkij boctido ic za degagido vicussup ogetu decodapeg vahuno kegduago luwu radnowre. Ipikeg asfal dekaeza vav bolewo rustoti gate upe macif poghor leci lac bifozob tezejasa wabvu sahkuiso. Uroco wasudij regub rimlew sarjo rutebop wile ujdam hu duhdu zenes ihlibwa fafgaduji vas ta nikhec epomejuk. Buafo ehoojoson tosukotaw hi ruz tomkazek la ri sojevrav gutuhwup ur waeje puvsahbuj. Bimse elrub awe tog afa obweldo sonpog sehufcen buug menmatec in zensifap codilebo nuof vi gel ja."
+  },
+  "apiKey": "4a4c8c48b326f456408e21f11c24cbb9d749c96f1502cf24dc374ccd98daf870",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
