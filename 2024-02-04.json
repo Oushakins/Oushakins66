@@ -1,0 +1,26 @@
+{
+  "name": "Marc Simmons",
+  "age": 62,
+  "address": {
+    "street": "Ivsi Point",
+    "city": "Zuuwwi",
+    "state": "OK",
+    "zip": "23226"
+  },
+  "contact": {
+    "phone": "(416) 647-3402",
+    "servicePhone": "800449836"
+  },
+  "birthday": "1989-11-12T11:39:13.969Z",
+  "ip": "181.186.93.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Lijaw eweisotu so mawomijo ture jate kansi tan vilhobda safon cosfunkew bowda. Ep hofjaj oru gafanjo tufhebdi feb vali bu awemisid vasti la ricom legadoco eji. Sojgip foh bazkozla iwo nes topneem obma iti dekti wa timocu zi gagosdif it womfimwa.",
+    "bio": "Neraliw cam ji iveoba vom ne gona banizde ba efelojal so jetuh. Bido ifmuev mo umtavfa kuvugsa dergijit mo ojiiwe wo zuv egowul ma menvuc cuhibak vope. Tawutge vedi kekarav gazilab etwojdi emavwiv acba wudaic rifehufi bamomco amuaj biode neum da tif munteju."
+  },
+  "apiKey": "eaf10b94e8d644cf9e8c33de5cab264bd77d1ab8c210d7941e214c1931e0e325",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
