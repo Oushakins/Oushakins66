@@ -1,0 +1,26 @@
+{
+  "name": "Ronnie Owen",
+  "age": 18,
+  "address": {
+    "street": "Sejil Drive",
+    "city": "Zufokac",
+    "state": "NY",
+    "zip": "37106"
+  },
+  "contact": {
+    "phone": "(736) 817-7665",
+    "servicePhone": "800824118"
+  },
+  "birthday": "1960-11-08T07:05:44.685Z",
+  "ip": "99.102.40.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Idu vu pa posdab vo wi seno nuf az bekizgej rekba za ropecej si. Ruguuju tidsekto be noevgin ricez cap wo hazu sef masmadoha ijoose reazarop odtocwe. Izi julo webome kekbelaca ci revdod pimiwpow moona urzuur ni mi ello uhihice bapzepad laltehcef foek.",
+    "bio": "Iha okuphi jes up hihude corre la gogjenocu tiop arsuhec noif telok ot huhel gej lituftaz ceogo lujel. Taimmu wiztonzuh oc ud fal vinmeciv razibibe dof wozifozo negsak onufuij nudvomot el wud jilip. Zeshobcu ormid vi da cafisla itlam zug olu movithe jodudukaj zoles litum. Ikfawwa ikbip fifik veljabha kuco jowwaf pavetide viwreb merif pujegip manaziet zec sav eg ipo dib cuzca. Fi fumah sawoca aseikelib tag ropviv jo mozowiw gapon kuvi noeleguh icfofza tooli atwuwut ru. Megrel kedzof rekowzi re da tu zucu wopbot guc ge mepveebi sascav cavuule weni suv dakoov isi ne. Fuavge somhojiz mif gel jepatzon pigas hopperji fijkit jomur tudambes kisewep kij bandenbu ca mabem ar lot suvuc."
+  },
+  "apiKey": "47e8518a302f75068e0135290987ab7fd1cb34d100241148ddc6d76f5f8ee0dd",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
