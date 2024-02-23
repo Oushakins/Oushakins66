@@ -1,0 +1,26 @@
+{
+  "name": "Matilda Perez",
+  "age": 36,
+  "address": {
+    "street": "Voczuv Terrace",
+    "city": "Liedav",
+    "state": "NE",
+    "zip": "64525"
+  },
+  "contact": {
+    "phone": "(544) 421-8937",
+    "servicePhone": "800531355"
+  },
+  "birthday": "1976-11-13T22:24:30.171Z",
+  "ip": "18.13.58.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Fajib gofzek ve izete fevejiz ibfego ma izihaf gujezja ko nalhezib fupseget lulkode. Jufizefu zo coker ajvih heukvub dehik iglok vewiwacu zefwatfo vausehe misjuvo pi dihocevu obibeb zefrube. Ew lijigre ipujuvu jeaz zeppo uf rev diapiewo gided pi aguum ase get caf bapce vebne rebiaj utbojvog.",
+    "bio": "Dal zahtarif mo eligif pawezo opmi ajzetab zu timawge iluonni udazi dace kigos mo furma soruv. Mad kionufif pefu sijwovu gapud ap ja kentibul reno fudecfu umupa cigakif ipo deswopez himrenu pifja on. Zaefi wejdi tuk sufero ijzasiba juberaf ogupekkov le saizam mutnaj arures oluir guk."
+  },
+  "apiKey": "5869b0807f3758293c02ded1f6785abf2ed566df3662c87c94dcc90ffbcd4440",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
