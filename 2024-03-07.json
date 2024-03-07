@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Lamb",
+  "age": 27,
+  "address": {
+    "street": "Pumawe Trail",
+    "city": "Vadrimom",
+    "state": "MT",
+    "zip": "90775"
+  },
+  "contact": {
+    "phone": "(644) 671-6897",
+    "servicePhone": "800968332"
+  },
+  "birthday": "1970-08-15T13:25:34.641Z",
+  "ip": "221.156.27.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Os sohazded negeh acrik negaju ug huci homru poroc zisihle odmewda relpero tiw wacet toeperi. Fikta cu iseaz ta eg vohka ket jisiimu wianociw ozaipi ukusepte pe kerje gotzafac. Tekum jej wus japasnap vifun opge niapuat suzos gulip obeduw tepih awebigro jahosiw gajodiwid ijjonhe dufo. Tejnusipu rihud afa cowa giuv mejvocuc irorajnod nucju ihegav domonez ura jic dafop fazjebro. Mepubnov kikiwe vum vocatmow iziso se guzrugzur afi ejo agwu ibbobma ninojko susdibbu. Ri vibej sagjeno con ronap zowi kel mukpoive koroz we as pecvilore icafopape sasumte.",
+    "bio": "Uca venfafome lanana usimas damfav ezwigdi opawod supki hemazaw gowra ba sudkel evjikvid nanori cek lu mo. Gi wucdokso avri homozmaz siz wuhe wo gor muohu cu suemu cekrag jinos zonibo wumafob. Bud di hagol pirig ademho jofgapfar bimreh tafokuse juf bucjushe winojhow fikag mieve di les jus."
+  },
+  "apiKey": "c05d6198493d5a0b15e2d6aa062645a5a8b8da84de6a2f2c942e9a00b3fdd1d4",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
