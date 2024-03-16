@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Warren",
+  "age": 61,
+  "address": {
+    "street": "Sisna Glen",
+    "city": "Comokil",
+    "state": "WA",
+    "zip": "39003"
+  },
+  "contact": {
+    "phone": "(758) 875-3933",
+    "servicePhone": "800683878"
+  },
+  "birthday": "2000-02-20T14:01:06.602Z",
+  "ip": "175.225.228.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Esugola gof wuceg zer joh lonnihaw no debebuz be tadto jolupuke gurrari su ozo fum wem. Bovfetu rervusuz sebpis cinbe kezmili kap kum poli laije una pulu nejom opusuha ek fajri ovicedwo hucildin biduoc. Ro hewaj nuka ov lisu dewduj kevusa mudfam igepic ucednep resi omsof cikiguko radsuj.",
+    "bio": "Web ak ka reagu zevikmib dabjipnuc hilajano heut bozo polaw vaib ko bunidwav lu pe fap gokof faruj. Fanbot borozhu moc faze wepwece dipojap jereviba dukpembup tera faw vim citan tucutcus mawome. Relevzu ozoshi vijju lav vidhi zatsawu otoatoami gepezi noc eh opbiwza ih."
+  },
+  "apiKey": "47d51409b7ed5c9a2d48c894f2b64403c471371f65d6cf5dcd5f0d21644b5625",
+  "currency": {
+    "code": "MRO",
+    "name": "Mauritania Ouguiya"
+  }
+}
