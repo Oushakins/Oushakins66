@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Arnold",
+  "age": 50,
+  "address": {
+    "street": "Kagovu Street",
+    "city": "Ogumiho",
+    "state": "DC",
+    "zip": "60443"
+  },
+  "contact": {
+    "phone": "(826) 809-9851",
+    "servicePhone": "800734613"
+  },
+  "birthday": "1980-11-20T06:29:00.179Z",
+  "ip": "205.203.141.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Keznoriz fosezi buwub feglojuv cabisij tubnica ho ra ujiduzafi robgib le zof osomefej fudutjuk ic. Keahiloz oseubtev jidan uheh gitjopog bitkep tocnebom vop gez riwdabos as teh lok ku. Burapor adigoc om kobu zebig wupcih noz ik jaslozses nug coddampoh caugupu jeiveno.",
+    "bio": "Izupi mofzefa zomazha pa daviku ne poage backug fetev ude ja vuir vin ga fetakoh. Puavdu hemla eb dumbubip jitaj cizipib sedasoko bem pazton fepfobat tuz si li be zisi. Suhen jumo udevofuv azumuzi sijimpu docupace ruf duw jun zepamkok otsuh luvwulo vi gehectad sodsilta najniczuz hanlazu sava. Husrihe lod geb lus jen unolojgi elpowhan doop olo udiego tih natef haduzup puwgiwve je zapsig cu. Dicer rawogji ujafutru zu pasjameh nalap gicwup guagide tafpum jehub sapzo gepraz ejuta gis jemikseg wuw. Ogiuroise karsiw tuscusib so misamuwab makef ne reha me omiep ho dakvojaj ulsigko."
+  },
+  "apiKey": "75482ae779681ac2bf1d02525e6ba915fd40801be94e94a0e553db3307d0cfaf",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
