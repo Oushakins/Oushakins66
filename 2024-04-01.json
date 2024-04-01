@@ -1,0 +1,26 @@
+{
+  "name": "Luke Stewart",
+  "age": 30,
+  "address": {
+    "street": "Ehuero Terrace",
+    "city": "Zupaszi",
+    "state": "NC",
+    "zip": "33672"
+  },
+  "contact": {
+    "phone": "(239) 283-9521",
+    "servicePhone": "800655587"
+  },
+  "birthday": "1966-03-20T08:05:18.305Z",
+  "ip": "206.251.105.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Waani zabki goikbek jeodees ow cetedbi vibtuvic olagegam dafku zu dulatec kaecoba nukihij erke argewa izgenzur dabpiz. Bed goeco laep on ujijovo ihob uvticca itcuna boc lodi fepofovo ko sodogrih. Guzego nakorecih acnitom zo pasu jezione reonagel atagu enazidoc lolac na seku wa mucsa. Zidiw mootudas ref imo tuvlosuf je def sik fe biehupel kazajzo zova.",
+    "bio": "Ozpa dam hiv gi tin najer cus cegus hohu hodakfud ta dujhili bisuva zuse usonowba votdaj. Cubov har seicusi hi dotga adobo mogoh geuce no jov fobihke jadriwe un acizar. Nin lamodro mihwimu pabla jenu re bemu du duvodkob peduro gisad jo uhlicwe co fu ozganrur ekapo nascadev."
+  },
+  "apiKey": "cd335e65f8345eb5a5b741ec52220a479e411cc12ce609632d3f33c259440c8d",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
