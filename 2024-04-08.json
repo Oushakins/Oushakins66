@@ -1,0 +1,26 @@
+{
+  "name": "Dale Willis",
+  "age": 43,
+  "address": {
+    "street": "Igti Ridge",
+    "city": "Cojvihrib",
+    "state": "IL",
+    "zip": "46108"
+  },
+  "contact": {
+    "phone": "(460) 807-1000",
+    "servicePhone": "800386797"
+  },
+  "birthday": "1986-05-10T22:52:53.371Z",
+  "ip": "200.236.88.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Amaaz azrotkun fecoge ibuevizu egerakwo hughe ni hip pib did tu cegalufi. Gih jofdobi nuj oz big lizibep sakdeut zipfocub mabidus buhzep cag pan hu. Po vuavmi uzgumut hidmurheh hu civ cu okhuwok hevdet nimsa sumawuv ufiwehuh caci.",
+    "bio": "Hahsiwuh moravrav uddernes inibepi wuvvaglac gikbivule rocalkiv na hetiohu wewaec puzlek jaz mibzuwem desa upu ediesinu guriksa mahtebvaz. Atwuli nubgudsan kogpeog nurrotko neivfe du ineikopov efpo mugovvo utu ehtoja cip ri. Muv gahoka wipegev afozegak riz zuede hive dod re aherahac muhpojdu onave."
+  },
+  "apiKey": "f7268bb32a09a6dab65cf2698c80bf10a65a45a6a636dcbe2b60dce86be7938a",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
